@@ -1,0 +1,18 @@
+
+ª%squid:RedundantThrowsDeclarationCheck©"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(üäÔ
+3squid:S1643"Use a StringBuilder instead.(ûÎÜÍ
+Qsquid:S4973ƒ"9Use the "equals" method if value comparison was intended.(Œ¼ÊÄ
+Vsquid:S4973—"9Use the "equals" method if value comparison was intended.(–ğÑûÿÿÿÿÿ
+9squid:S1643“"Use a StringBuilder instead.(ìÎãèøÿÿÿÿ
+3squid:S1643s"Use a StringBuilder instead.(ÑòÛØ
+Qsquid:S4973"9Use the "equals" method if value comparison was intended.(Ï…Ó
+Fsquid:EmptyStatementUsageCheckY"Remove this empty statement.(½Ã”
+8squid:S1643l"Use a StringBuilder instead.(–çáˆıÿÿÿÿ
+4squid:S1643‰"Use a StringBuilder instead.(àš¼ù
+wsquid:S00116"_Rename this field "ValkN1qlLookupBucket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‰Ş
+9squid:S1643"Use a StringBuilder instead.(Åüê’ûÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"VMake ctrValores a static final constant or non-public and provide accessors if needed.(äËçÑ
+Vsquid:S4973¡"9Use the "equals" method if value comparison was intended.(–ğÑûÿÿÿÿÿ
+qsquid:S1450"ZRemove the "ValkN1qlRow" field and declare it as a local variable in the relevant methods.(¼Àêò
+nsquid:S00116"VRename this field "ValkN1qlRow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Àêò
+8squid:S1643t"Use a StringBuilder instead.(·øç‡şÿÿÿÿ

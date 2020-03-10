@@ -1,0 +1,4 @@
+
+ksquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÙè­ûÿÿÿÿ
+usquid:S1450"^Remove the "ValkQueryResult" field and declare it as a local variable in the relevant methods.(±¨‚ú
+rsquid:S00116"ZRename this field "ValkQueryResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¨‚ú
